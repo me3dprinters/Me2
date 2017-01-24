@@ -1,7 +1,7 @@
 # Me2
 
-***Update readme
+This repository contains ancillary configuration files for the Me2 printer developed by Me3D Pty. Ltd.
 
-This repository contains ancillary configuration files for the Me2 printer developed by Me3D Pty. Ltd. (An Australian company)
+# Firmware
 
-You’ll find configurations for various print hosting software paltforms, as well as Autodesk spark integration development assets here.
+Me2 uses Marlin firmware. You’ll find current and past versions of the precompiled (.hex) firmware as well as Mattercontrol compatible default settings files (.slice).
